@@ -18,4 +18,7 @@
 
 >1. List:<br :>
 >> a. Array Implementation :<br>
->> Obviously  all of these instructions can be implemented just by using an array. Even if the array is dynamically  allocated, an estimate of the maximum size of the list is required. Usually this require high over-estimate, which wastes considerable space. This could be a serious limitation, especially if there are many lists of unknown size.
+>>&nbsp;&nbsp;&nbsp;&nbsp;Obviously  all of these instructions can be implemented just by using an array. Even if the array is dynamically  allocated, an estimate of the maximum size of the list is required. Usually this require high over-estimate, which wastes considerable space. This could be a serious limitation, especially if there are many lists of unknown size.<br><br>
+>> b. Linked List:<br>
+>>&nbsp;&nbsp;&nbsp;&nbsp;In Order to avoid the linear cost of insertion and deletion, we need to ensure that the list is not stored contigously, since otherwise entire part of the list will need to be moved.<br><br>
+![LinkedList](./images/linkedlist.png)
