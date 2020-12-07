@@ -1,6 +1,6 @@
 # Hello, This is Shubham Rathore
 ### I am a student of Gujarat University.
-### I am writing this on 6th December 2020.
+### I am starting this on 6th December 2020.
 ## This one is my repository, about data structure.
 ### If you find any issue in this contact me on:
 [ShubhamRathore](www.shubhamrathore7567@gmail.com)
@@ -21,4 +21,4 @@
 >>&nbsp;&nbsp;&nbsp;&nbsp;Obviously  all of these instructions can be implemented just by using an array. Even if the array is dynamically  allocated, an estimate of the maximum size of the list is required. Usually this require high over-estimate, which wastes considerable space. This could be a serious limitation, especially if there are many lists of unknown size.<br><br>
 >> b. Linked List:<br>
 >>&nbsp;&nbsp;&nbsp;&nbsp;In Order to avoid the linear cost of insertion and deletion, we need to ensure that the list is not stored contigously, since otherwise entire part of the list will need to be moved.<br><br>
-![LinkedList](./images/linkedlist.png)
+![LinkedList](./images/linkedlist.png)<br><br>
